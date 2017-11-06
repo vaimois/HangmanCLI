@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zaynaib/hangmanCLI.git"
+    "url": "git+https://github.com/vaimois/HangmanCLI.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zaynaib/hangmanCLI/issues"
+    "url": "https://github.com/vaimois/hangmanCLI/issues"
   },
-  "homepage": "https://github.com/zaynaib/hangmanCLI#readme"
+  "homepage": "https://github.com/vaimois/hangmanCLI#readme"
 }
